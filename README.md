@@ -1,5 +1,6 @@
 # Credit Risk Analysis – 信贷违约风险分析
 
+## 项目简介
 本项目基于 Kaggle 的 **Credit Risk Dataset**（约 3.2 万条信贷记录），使用 **MySQL** 进行数据存储与查询，利用 **Python (pandas, matplotlib, seaborn, scikit-learn)** 完成数据分析与建模。主要工作包括：
 
 - **单变量风险分析**：探索住房类型、贷款等级、债务收入比等特征与违约率的关系。下图展示了不同住房类型（租房、自有、按揭）的违约率，发现 **租房群体违约率最高**。
