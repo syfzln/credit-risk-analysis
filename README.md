@@ -40,9 +40,10 @@ credit-risk-analysis/
     ├── heatmap_income_dti.png
     ├── top10_features.png
     └── confusion_matrix.png
+```
 
-作者
+## 作者
 GitHub: syfzln
 
-许可证
+## 许可证
 本项目仅用于学习，数据集遵循 CC0 公共领域许可。
