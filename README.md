@@ -43,7 +43,7 @@ credit-risk-analysis/
 ```
 
 ## 作者
-GitHub: syfzln
+GitHub: syfzln(https://github.com/sifzln/credit-risk-analysis)
 
 ## 许可证
 本项目仅用于学习，数据集遵循 CC0 公共领域许可。
