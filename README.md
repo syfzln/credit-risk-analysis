@@ -23,7 +23,7 @@
 ## 图表展示
 ![住房类型违约率](images/default_rate_by_home_ownership.png)
 ![债务收入比违约率](images/default_rate_by_dti.png)
-![收入与债务比热力图](images/heatmap_income_dti.png)
+![收入与债务比热力图](images/heatmap_income_dt.png)
 ![Top10重要特征](images/top10_features.png)
 ![混淆矩阵](images/confusion_matrix.png)
 
