@@ -39,7 +39,6 @@ credit-risk-analysis/
 │ ├── heatmap_income_dti.png
 │ ├── top10_features.png
 │ └── confusion_matrix.png
-└── data/ (optional)
 
 ## 作者
 - GitHub：syfzln(https://github.com/syfzln/credit-risk-analysis)
