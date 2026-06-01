@@ -28,6 +28,7 @@
 ![混淆矩阵](images/confusion_matrix.png)
 
 ## 项目结构
+```text
 credit-risk-analysis/
 ├── credit_risk_analysis.ipynb
 ├── README.md
