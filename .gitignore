@@ -1,0 +1,20 @@
+# Jupyter notebook
+.ipynb_checkpoints/
+*.ipynb~
+
+# Python
+__pycache__/
+*.pyc
+
+# Data files (large)
+*.csv
+*.xlsx
+*.db
+
+# Secrets
+.env
+config.py
+
+# OS junk
+.DS_Store
+Thumbs.db
