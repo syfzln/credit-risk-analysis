@@ -33,12 +33,12 @@ credit-risk-analysis/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-├── images/
-│ ├── default_rate_by_home_ownership.png
-│ ├── default_rate_by_dti.png
-│ ├── heatmap_income_dti.png
-│ ├── top10_features.png
-│ └── confusion_matrix.png
+└── images/
+    ├── default_rate_by_home_ownership.png
+    ├── default_rate_by_dti.png
+    ├── heatmap_income_dti.png
+    ├── top10_features.png
+    └── confusion_matrix.png
 
 ## 作者
 - GitHub：syfzln(https://github.com/syfzln/credit-risk-analysis)
